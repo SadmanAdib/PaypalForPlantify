@@ -1,3 +1,3 @@
 # PaypalForPlantify
-A simple app to scan a QR code and make payment using the Paypal API.
+A simple app to scan a QR code and make payment using the Paypal API./n
 This was a part of a Website project called Plantify : github.com/JaberPranto/Plant-Land
